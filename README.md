@@ -14,9 +14,6 @@
   <a href="https://www.linkedin.com/in/john-carl-ramirez-716216b9" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100006233776784" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" width="40" />
-  </a>
   <a href="https://www.instagram.com/jcr_rrr/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" />
   </a>
