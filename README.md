@@ -3,6 +3,7 @@
 
 - 🔭 I’m currently working on [PyCalculus](https://github.com/cjohnramirez/PyCalculus)
 - 🌱 I’m currently learning **NextJS, Python, C++, and Java**
+- 📚 I'm currently a computer science student
 - 💬 Ask me about **Django, React, Matplotlib and Numpy**
 - 📫 How to reach me **jcramirez340@gmail.com**
 
