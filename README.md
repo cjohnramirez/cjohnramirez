@@ -40,6 +40,6 @@
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cjohnramirez&show_icons=true&locale=en&layout=compact" alt="cjohnramirez" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cjohnramirez&show_icons=true&theme=dark&locale=en" alt="cjohnramirez" /></p>
+## 📊 Stats
+![GitHub Trends SVG](https://api.githubtrends.io/user/svg/cjohnramirez/langs?time_range=one_year&theme=dark)
+![GitHub Trends SVG](https://api.githubtrends.io/user/svg/cjohnramirez/repos?time_range=one_year&theme=dark)
