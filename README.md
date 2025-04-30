@@ -6,15 +6,10 @@
 - 💬 Ask me about **Django, React, Matplotlib and Numpy**
 - 📫 How to reach me **jcramirez340@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/john-carl-ramirez-716216b9" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" />
-  </a>
-  <a href="https://www.instagram.com/jcr_rrr/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" />
-  </a>
-</p>
+## 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-carl-ramirez-716216b9)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100006233776784)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jcr_rrr/)
 
 ## 🚀 Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
