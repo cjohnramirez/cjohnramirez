@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **NextJS, Python, C++, and Java**
 - 📚 I'm currently a computer science student
 - 💬 Ask me about **Django, React, Matplotlib and Numpy**
-- 📫 How to reach me **jcramirez340@gmail.com**
+- 📫 How to reach me **johncarl.ramirez.dev@gmail.com**
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-carl-ramirez-716216b9)
