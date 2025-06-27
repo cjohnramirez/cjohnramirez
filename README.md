@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm John Carl T. Ramirez</h1>
 <h3 align="center">A passionate full stack developer from the Philippines</h3>
 
-- 🔭 I’m currently working on a secretive project hehehehe
+- 🔭 I’m currently working on [ProNote - A Collaborative Notes App](https://github.com/cjohnramirez/ProNote.git)
 - 🌱 I’m currently learning **NextJS, Python, C++, and Java**
 - 📚 I'm currently a computer science student
 - 💬 Ask me about **Django, React, Matplotlib and Numpy**
