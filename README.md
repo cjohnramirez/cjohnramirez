@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm John Carl T. Ramirez</h1>
 <h3 align="center">A passionate full stack developer from the Philippines</h3>
 
+- 📝 See an overview of my work in my portfolio website [JCR Portfolio](https://jcr-portfolio.vercel.app/)
 - 🔭 I’m currently working on [ProNote - A Collaborative Notes App](https://github.com/cjohnramirez/ProNote.git)
 - 🌱 I’m currently learning **NextJS, Python, C++, and Java**
 - 📚 I'm currently a computer science student
