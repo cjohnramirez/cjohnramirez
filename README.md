@@ -43,7 +43,3 @@
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)
-
-## 📊 Stats
-![GitHub Trends SVG](https://api.githubtrends.io/user/svg/cjohnramirez/langs?time_range=one_year&theme=dark)
-![GitHub Trends SVG](https://api.githubtrends.io/user/svg/cjohnramirez/repos?time_range=one_year&theme=dark)
