@@ -40,7 +40,7 @@ Cagayan de Oro, Philippines
 | **Languages** | <img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,html,css" height="36" alt="Python, TypeScript, JavaScript, Java, C++, HTML, CSS"> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=django,fastapi,flask,postgres,redis,supabase" height="36" alt="Django, FastAPI, Flask, PostgreSQL, Redis, Supabase"> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,bootstrap" height="36" alt="Next.js, React, Tailwind CSS, Bootstrap"> |
-| **Data** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,r" height="36" alt="TensorFlow, PyTorch, R"> &nbsp; NumPy · Matplotlib |
+| **Data** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,r" height="36" alt="TensorFlow, PyTorch, R"> &nbsp; |
 | **Infrastructure** | <img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,git" height="36" alt="Docker, GitHub Actions, Vercel, Git"> |
 | **Design** | <img src="https://skillicons.dev/icons?i=figma,ai,ps,blender" height="36" alt="Figma, Illustrator, Photoshop, Blender"> |
 
