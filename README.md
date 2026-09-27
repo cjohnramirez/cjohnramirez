@@ -101,7 +101,6 @@ Cagayan de Oro, Philippines
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=cjohnramirez&show_icons=true&theme=dark)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=cjohnramirez&theme=dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cjohnramirez&layout=compact&theme=dark)
 
 ---
 
