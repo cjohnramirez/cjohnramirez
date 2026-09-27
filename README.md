@@ -5,7 +5,9 @@
 **Full-Stack Developer · Researcher · Brand Designer**<br>
 Cagayan de Oro, Philippines
 
-I build full-stack web and mobile applications end to end, from database schema and API to a polished interface.
+<a href="https://jcrdev.me">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1200&color=5b84f5&center=true&vCenter=true&multiline=false&width=820&lines=I+build+full-stack+web+and+mobile+applications+end+to+end.;From+database+schema+and+API+to+a+polished+interface.;Offline-first+apps+for+Filipino+farmers.;Brand+systems+that+look+as+good+as+they+work." alt="Typing intro"/>
+</a>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-jcrdev.me-111111?style=flat-square&logo=vercel&logoColor=white)](https://jcrdev.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-John_Carl_Ramirez-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-carl-ramirez-334a3b362)
